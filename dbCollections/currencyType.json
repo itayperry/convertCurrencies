@@ -1,0 +1,6 @@
+{"_id":{"$oid":"5b6b08f10caebc395a640d8e"},"name":"ILS","base":"EUR","rate":1.3241665703353393e-88}
+{"_id":{"$oid":"5b6b091f0caebc395a640d8f"},"name":"USD","base":"EUR","rate":1.8078139041661735e-62}
+{"_id":{"$oid":"5b6b09510caebc395a640d90"},"name":"GBP","base":"EUR","rate":1.0425869430846096e-61}
+{"_id":{"$oid":"5b6b09ce0caebc395a640d91"},"name":"AUD","base":"EUR","rate":1.893806062340033e-70}
+{"_id":{"$oid":"5b6b0a080caebc395a640d92"},"name":"INR","base":"EUR","rate":1.003790617131416e-74}
+{"_id":{"$oid":"5b6ef70a0caebc395a640d93"},"name":"EUR","base":"EUR","rate":1}
